@@ -26,7 +26,7 @@ publishing landscape.
   but not the only step -- towards making digitized editions of this
   these books freely available.
 
-* `FINAL-foreign.tsv` - Books that seem to haev been published outside
+* `FINAL-foreign.tsv` - Books that seem to have been published outside
     the US. Such works had their copyright restored by treaty, so
     they're all still under copyright. It's good to have a list of
     these books, in case you're wondering why a book doesn't show up
