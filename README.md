@@ -1,7 +1,7 @@
 # Spreadsheets of copyright registration renewal information
 
 These tab-separated files are a simplified version of the output of
-the [cce-python](https://github.com/leonardr/cce-spreadsheets)
+the [cce-python](https://github.com/leonardr/cce-python)
 project. The goal is to provide an easy (if incomplete) answer to this
 question:
 
