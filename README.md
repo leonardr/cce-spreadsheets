@@ -8,10 +8,11 @@ question:
 **Of the books published in the US before 1963, which ones had their
 copyright renewed and which ones lapsed into the public domain?**
 
-The [cce-python](https://github.com/leonardr/cce-spreadsheets) dataset
-is a lot more detailed and probably better for convincing lawyers, but
-these spreadsheets can be used to get a quick overview of the pre-1963
-publishing landscape.
+These files were generated using the
+[cce-python](https://github.com/leonardr/cce-python) project. That
+project generates a much larger dataset, which is probably better for
+convincing lawyers, but these spreadsheets can be used to get a quick
+overview of the pre-1963 publishing landscape.
 
 * `FINAL-renewed.tsv` - These registrations have at least one
   corresponding renewal, which means they were probably renewed and
